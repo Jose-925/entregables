@@ -1,0 +1,6 @@
+https://github.com/Jose-925/entregables.git
+
+link pagina web estatica
+
+el entregable4.js esta vinculado con el boton y globo de texto
+
